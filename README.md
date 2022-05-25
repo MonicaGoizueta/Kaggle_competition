@@ -28,9 +28,11 @@ I did some encoding:
 
 Since cut color clarity are of type object, LabelEncode all three columns.
 
-Traning Model
 
-Testing Models: I found out the RMSE for various models, trying to work out which of them was better.
+
+Testing Models: 
+
+I found out the RMSE for various models, trying to work out which of them was better.
 
 Linear Regression:
 RMSE: 0.488042
