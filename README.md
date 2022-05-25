@@ -6,14 +6,23 @@ The aim of this project, was to predict the price of diamonds based on its other
 The featrues were:
 
 id
+
 carat
+
 cut
+
 color
+
 clarity
+
 depth
+
 table
+
 x
+
 y
+
 z
 
 Preprocessing:
